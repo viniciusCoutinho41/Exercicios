@@ -1,9 +1,8 @@
-#define PI 3.1415
+#include <stdio.h>
 int main(){
 	//Atividade 2
 	
 	float F, C;
-    system("cls");
     printf("Digite a temperatua em Fahrenheit: ");
     scanf("%f", &F);
     C = (F - 32) * 5/9;
