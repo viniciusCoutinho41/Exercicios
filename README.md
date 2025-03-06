@@ -1,1 +1,1 @@
-Exercícios de lógica em python
+Exercícios de lógica de programação
